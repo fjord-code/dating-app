@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Abstractions/Abstractions.csproj" />
+  <Project Path="API/API.csproj" />
+  <Project Path="Data/Data.csproj" />
+  <Project Path="Entities/Entities.csproj" />
+  <Project Path="Service/Service.csproj" />
+</Solution>
